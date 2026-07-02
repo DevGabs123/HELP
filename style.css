@@ -100,7 +100,7 @@ header {
     justify-content: center;
     align-items: center;
 
-    background-image: url(BackGroundImoveis.png);
+    background-image: url(../imagem/BackGroundImoveis.png);
     background-size: cover;
     background-position: center;
 

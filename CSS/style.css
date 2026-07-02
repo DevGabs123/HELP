@@ -100,12 +100,8 @@ header {
     justify-content: center;
     align-items: center;
 
-     height: 500px;
-
-    background-image: url("../imagem/BackGroundImoveis.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    height: 500px;
+    background: url("../imagem/BackGroundImoveis.png") center/cover no-repeat;
 
 
     

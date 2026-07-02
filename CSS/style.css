@@ -101,7 +101,7 @@ header {
     align-items: center;
 
     height: 500px;
-    background: url("../imagem/FUNDO.png") center/cover no-repeat;
+    background: url("../imagem/FUNDO.png");
 
 
     
